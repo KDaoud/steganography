@@ -1,2 +1,2 @@
-# resume_Encryption
+# Steganography
 encrypt a message into an image
